@@ -16,3 +16,20 @@
 <ul>
 
 <h2>Behavoir Driven Developement<h2>
+<h3>Display form to fill in Date and Gender<h3>
+<ul>
+<li>Input:user enter valid birthday details<li>
+<li>Input:user selects gender<li>
+<li>Output:Display Users' Akan name according to submitted date and gender<li>
+<ul>
+<h3>Display error message if user leaves date form blank<h3>
+<ul>
+<li>Input:  <li>
+<li>Output:Display error message<li>
+<ul>
+<h3>Reset form<h3>
+<ul>
+<li>Input:Clear<li>
+<li>Output:Clear and reset form<li>
+<ul>
+<h2>Technologies<h2>
