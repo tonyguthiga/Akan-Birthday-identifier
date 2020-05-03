@@ -33,3 +33,15 @@
 <li>Output:Clear and reset form<li>
 <ul>
 <h2>Technologies<h2>
+<ul>
+<li>HTML<li>
+<li>css/Bootstrap<li>
+<li>javaScript<li>
+<ul>
+<h2>Contact information<li>
+<p>If you wish to contribute or ask any questions,you can reach me at {toniguthiga93@gmail.com}<p>
+<h2>Author<h2>
+<p>Antony Guthiga<p>
+<h2>License<h2>
+<p>MIT License<p>
+<p>Copyright(c)|| 2020 All Rights Reserved. Developed by Antony Guthiga<p>
