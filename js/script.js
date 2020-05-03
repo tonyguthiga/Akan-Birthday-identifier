@@ -16,7 +16,7 @@ var femaleName = document.getElementById("female");
      alert("Please enter valid month") 
   }
 
-  var newDate = new Date(day + "/" + month + "/" + year);
+  var newDate = new Date(day + "-" + month + "-" + year);
   var d = newDate.getDay()
 
   if(male.checked == true){
