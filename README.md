@@ -16,28 +16,20 @@
 <ul>
 
 <h2>Behavoir Driven Developement<h2>
-<h3>Display form to fill in Date and Gender<h3>
-<ul>
-<li>Input:user enter valid birthday details<li>
-<li>Input:user selects gender<li>
-<li>Output:Display Users' Akan name according to submitted date and gender<li>
-<ul>
-<h3>Display error message if user leaves date form blank<h3>
-<ul>
-<li>Input:  <li>
-<li>Output:Display error message<li>
-<ul>
-<h3>Reset form<h3>
-<ul>
-<li>Input:Clear<li>
-<li>Output:Clear and reset form<li>
-<ul>
+<h2>Display form to fill in Date and Gender<h2>
+<p>Input:user enter valid birthday details<p>
+<p>Input:user selects gender<p>
+<p>Output:Display Users' Akan name according to submitted date and gender<p>
+<h2>Display error message if user leaves date form blank<h2>
+<p>Input:  <p>
+<p>Output:Display error message<p>
+<h2>Reset form<h2>
+<p>Input:Clear<p>
+<p>Output:Clear and reset form<p>
 <h2>Technologies<h2>
-<ul>
-<li>HTML<li>
-<li>css/Bootstrap<li>
-<li>javaScript<li>
-<ul>
+<p>HTML<p>
+<p>css/Bootstrap<p>
+<p>javaScript<p>
 <h2>Contact information<li>
 <p>If you wish to contribute or ask any questions,you can reach me at {toniguthiga93@gmail.com}<p>
 <h2>Author<h2>
