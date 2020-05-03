@@ -1,17 +1,21 @@
 <h1>AKAN-BIRTHDAY-IDENTIFIER<h1>
 
 <h2>Description<h2>
-<p>A web application that calculates the day of the week the user was born and depending on their gender outputs their Akan name.Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born. Here are Ghanian day names.<p>
+<p>A web application that calculates the day of the week the User born and depending on their gender, outputs their Akan name.
+Akan names are derived from Ghanian culture.Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born.<p>
 
-<h2>Setup instructions<h2>
+<h2>Setup Instructions<h2>
 <p>To enhance the application or fix any bug;<p>
 <p>Fork the project<p>
 <p>Open the project using any Text Editor<p>
-<p>git clone the project https://github.com/tonyguthiga/Akan-Birthday-identifier.git<p>
+<p>git clone the https://github.com/tonyguthiga/Akan-Birthday-identifier.git<p>
 <p>Create a new branch<p>
-<p>Make appropriate changes to the files<p>
-<p>git commit -am and make a comment, so as to add and commit the changes made<p>
+<p>Make appropriate changes to the file<p>
+<p>git commit -am and make a comment,so as to add and commit the changes made.<p>
 <p>Push the changes and create a pull request<p>
+
+<h2>Screen Shot>
+<img src="/images/Screenshot from 2020-05-03 23-04-57.png">
 
 <h2>Behavoir Driven Developement<h2>
 <h2>Display form to fill in Date and Gender<h2>
