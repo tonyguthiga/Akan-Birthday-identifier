@@ -20,9 +20,44 @@ function getAkanName(){
   var d = newDate.getDay()
 
   if(male.checked == true){
-     alert("You were born on " + daysOfTheWeek[d] + " and your Akan name would be: " + maleNames[d]);
+     alert("You were born on " + daysOfTheWeek[0] + " and your Akan name would be: " + maleNames[0]);
+  }
+  else if(male.checked == true){
+    alert("You were born on " + daysOfTheWeek[1] + " and your Akan name would be: " + maleNames[1]);
+ }
+ else if(male.checked == true){
+    alert("You were born on " + daysOfTheWeek[2] + " and your Akan name would be: " + maleNames[2]);
+ }
+ else if(male.checked == true){
+    alert("You were born on " + daysOfTheWeek[3] + " and your Akan name would be: " + maleNames[3]);
+ }
+ else if(male.checked == true){
+    alert("You were born on " + daysOfTheWeek[4] + " and your Akan name would be: " + maleNames[4]);
+ }
+ else if(male.checked == true){
+    alert("You were born on " + daysOfTheWeek[5] + " and your Akan name would be: " + maleNames[5]);
+ }
+ else if(male.checked == true){
+    alert("You were born on " + daysOfTheWeek[6] + " and your Akan name would be: " + maleNames[6]);
+ }
+  else if(female.checked == true){
+    alert("You were born on " + daysOfTheWeek[0] + " and your Akan name would be: " + femaleNames[0]);
   }
   else if(female.checked == true){
-    alert("You were born on " + daysOfTheWeek[d] + " and your Akan name would be: " + femaleNames[d]);
+    alert("You were born on " + daysOfTheWeek[1] + " and your Akan name would be: " + femaleNames[1]);
+  }
+  else if(female.checked == true){
+    alert("You were born on " + daysOfTheWeek[2] + " and your Akan name would be: " + femaleNames[2]);
+  }
+  else if(female.checked == true){
+    alert("You were born on " + daysOfTheWeek[3] + " and your Akan name would be: " + femaleNames[3]);
+  }
+  else if(female.checked == true){
+    alert("You were born on " + daysOfTheWeek[4] + " and your Akan name would be: " + femaleNames[4]);
+  }
+  else if(female.checked == true){
+    alert("You were born on " + daysOfTheWeek[5] + " and your Akan name would be: " + femaleNames[5]);
+  } else if(female.checked == true){
+    alert("You were born on " + daysOfTheWeek[6] + " and your Akan name would be: " + femaleNames[6]);
   }
 }
