@@ -40,7 +40,7 @@ function getAkanName(){
  else if(male.checked == true){
     alert("You were born on " + daysOfTheWeek[6] + " and your Akan name would be: " + maleNames[6]);
  }
-  else if(female.checked == true){
+ if(female.checked == true){
     alert("You were born on " + daysOfTheWeek[0] + " and your Akan name would be: " + femaleNames[0]);
   }
   else if(female.checked == true){
