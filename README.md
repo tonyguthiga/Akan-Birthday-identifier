@@ -14,7 +14,7 @@ Akan names are derived from Ghanian culture.Frequently in Ghana, children are gi
 <p>git commit -am and make a comment,so as to add and commit the changes made.<p>
 <p>Push the changes and create a pull request<p>
 
-<h2>Screen Shot>
+<h2>Screen Shot<h2>
 <img src="/images/screenshot.png">
 
 <h2>Behavoir Driven Developement<h2>
@@ -43,4 +43,4 @@ Akan names are derived from Ghanian culture.Frequently in Ghana, children are gi
 
 <h2>License<h2>
 <p>MIT License<p>
-<p>Copyright(c) | 2020 All Rights Reserved. Developed by Antony Guthiga<p>
+<p>Copyright(c) | 2020 All Rights Reserved.| Developed by Antony Guthiga<p>
