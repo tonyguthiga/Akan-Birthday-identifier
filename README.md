@@ -16,6 +16,7 @@ Akan names are derived from Ghanian culture.Frequently in Ghana, children are gi
 
 <h2>Screen Shot<h2>
 <img src="/images/screenshot.png">
+<p>Here is a live link to the application: https://tonyguthiga.github.io/Akan-Birthday-identifier/<p>
 
 <h2>Behavoir Driven Developement<h2>
 <h2>Display form to fill in Date and Gender<h2>
